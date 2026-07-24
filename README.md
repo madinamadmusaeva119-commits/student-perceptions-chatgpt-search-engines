@@ -61,8 +61,7 @@ This study consists of three parts:
 
 Click below to read the complete research paper.
 
-[📥 Read Research Paper (PDF)](./Research_Paper.pdf)
-
+[📥 Read Research Paper (PDF)](./research.pdf)
 
 ## 🛠 Research Areas
 
